@@ -1,8 +1,8 @@
-# 自定义枪械永续创造栏图标 | CGC creative tab icons
+# 自定义枪械永续创造栏图标包 | CGC Tab Pack
 
-[中文](#自定义枪械永续创造栏图标) | [English](#cgc-creative-tab-icons)
+[中文](#自定义枪械永续创造栏图标包) | [English](#cgc-tab-pack)
 
-# 自定义枪械永续创造栏图标
+# 自定义枪械永续创造栏图标包
 
 为[自定义枪械永续](https://github.com/XColorful/Custom-Gun-Continued)添加默认的创造栏图标。
 - 支持 Minecraft 1.20.1+ 任意版本 Forge/NeoForge
@@ -44,7 +44,7 @@
 
 - 资产：[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-# CGC creative tab icons
+# CGC Tab Pack
 
 Add default creative tab icons for [Custom Gun Continued](https://github.com/XColorful/Custom-Gun-Continued).
 - Supports any Forge/NeoForge version for Minecraft 1.20.1+
