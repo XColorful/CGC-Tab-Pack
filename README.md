@@ -38,7 +38,7 @@
 |---|---|---|
 |![手枪图标](./assets/customguntab/textures/guns/slot/pistol_icon.png)<br>手枪|![突击步枪图标](./assets/customguntab/textures/guns/slot/ar_icon.png)<br>突击步枪|![精确射手步枪图标](./assets/customguntab/textures/guns/slot/dmr_icon.png)<br>精确射手步枪|
 |![狙击步枪图标](./assets/customguntab/textures/guns/slot/sr_icon.png)<br>狙击步枪|![霰弹枪图标](./assets/customguntab/textures/guns/slot/shotgun_icon.png)<br>霰弹枪|![冲锋枪图标](./assets/customguntab/textures/guns/slot/smg_icon.png)<br>冲锋枪|
-|![RPG图标](./assets/customguntab/textures/guns/slot/rpg_icon.png)<br>RPG|![自定义图标](./assets/customguntab/textures/guns/slot/custom_icon.png)<br>自定义||
+|![机枪图标](./assets/customguntab/textures/guns/slot/mg_icon.png)<br>机枪|![RPG图标](./assets/customguntab/textures/guns/slot/rpg_icon.png)<br>RPG|![自定义图标](./assets/customguntab/textures/guns/slot/custom_icon.png)<br>自定义|
 
 ## 许可证
 
@@ -80,7 +80,7 @@ The gun pack supports two installation methods:
 |---|---|---|
 |![Pistol icon](./assets/customguntab/textures/guns/slot/pistol_icon.png)<br>Pistol|![Assault Rifle icon](./assets/customguntab/textures/guns/slot/ar_icon.png)<br>Assault Rifle|![Designated Marksman Rifle icon](./assets/customguntab/textures/guns/slot/dmr_icon.png)<br>Designated Marksman Rifle|
 |![Sniper Rifle icon](./assets/customguntab/textures/guns/slot/sr_icon.png)<br>Sniper Rifle|![Shotgun icon](./assets/customguntab/textures/guns/slot/shotgun_icon.png)<br>Shotgun|![Submachine Gun icon](./assets/customguntab/textures/guns/slot/smg_icon.png)<br>Submachine Gun|
-|![RPG icon](./assets/customguntab/textures/guns/slot/rpg_icon.png)<br>RPG|![Custom icon](./assets/customguntab/textures/guns/slot/custom_icon.png)<br>Custom||
+|![Machine Gun icon](./assets/customguntab/textures/guns/slot/mg_icon.png)<br>Machine Gun|![RPG icon](./assets/customguntab/textures/guns/slot/rpg_icon.png)<br>RPG|![Custom icon](./assets/customguntab/textures/guns/slot/custom_icon.png)<br>Custom|
 
 
 ## License
